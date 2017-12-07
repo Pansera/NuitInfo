@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+
+  git config --global user.email "vincent.pansera@viacesi.fr"
+  git config --global user.name "Pansera"
